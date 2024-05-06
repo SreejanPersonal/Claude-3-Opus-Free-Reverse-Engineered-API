@@ -1,0 +1,3 @@
+Requests==2.31.0
+selenium==4.20.0
+webscout==1.4.1
